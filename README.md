@@ -46,10 +46,10 @@ Customer site on : http://localhost/online-banking/admin/dist/
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@rashmin](https://github.com/rashmindungrani) - Idea & Initial work
+- [@rashmin](https://github.com/chilavadym) - Idea & Initial work
 
 ## 📄 Screenshot <a name = "screenshots"></a>
 
-- [screenshots](https://github.com/RashminDungrani/online-banking/tree/master/screenshots)
+- [screenshots](https://github.com/chilavadym/online-banking/tree/master/screenshots)
 
 ### Show some 💗 and star the repo to support the project
